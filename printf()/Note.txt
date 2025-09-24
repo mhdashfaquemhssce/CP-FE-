@@ -1,0 +1,10 @@
+Write each code of printf() cheatsheet inside a skeleton of  c program as follows:
+
+# include<stdio.h>
+int main()
+{
+	int a = 10; 
+	printf("Value = %d\n", a);
+
+return 0;
+}
